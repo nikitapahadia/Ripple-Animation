@@ -21,6 +21,13 @@ class RippleLayer: CAReplicatorLayer {
 		
 		repeatCount = Float(rippleRepeatCount)
 	}
+    
+    override init(layer: Any) {
+        super.init(layer: layer)
+        setupRippleEffect()
+        
+        repeatCount = Float(rippleRepeatCount)
+    }
 	
 	required init?(coder aDecoder: NSCoder) {
 		fatalError("init(coder:) has not been implemented")
