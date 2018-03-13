@@ -99,7 +99,7 @@
 				TargetAttributes = {
 					4F1256981E1EEE3300C1FCBA = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = R9N46X69BX;
+						DevelopmentTeam = XGKHW634KL;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -263,7 +263,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = R9N46X69BX;
+				DEVELOPMENT_TEAM = XGKHW634KL;
 				INFOPLIST_FILE = "Ripple-Animation/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.nikita.Ripple-Animation";
@@ -276,7 +276,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = R9N46X69BX;
+				DEVELOPMENT_TEAM = XGKHW634KL;
 				INFOPLIST_FILE = "Ripple-Animation/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.nikita.Ripple-Animation";
@@ -304,6 +304,7 @@
 				4F1256AD1E1EEE3300C1FCBA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
